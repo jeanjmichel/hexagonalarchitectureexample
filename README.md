@@ -1,10 +1,6 @@
 ### Hexagonal Architecture Example
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-gren.svg)](https://opensource.org/licenses/MIT) ![Workflow Status](https://github.com/jeanjmichel/hexagonalarchitectureexample
-/actions/workflows/dotnet.yml/badge.svg) [![GitHub Release](https://img.shields.io/github/release/jeanjmichel/hexagonalarchitectureexample
-.svg?style=flat)]() [![GitHub last commit](https://img.shields.io/github/last-commit/jeanjmichel/hexagonalarchitectureexample
-.svg?style=flat)]() [![GitHub pull requests](https://img.shields.io/github/issues-pr/jeanjmichel/hexagonalarchitectureexample
-.svg?style=flat)]() [![Donate](https://img.shields.io/badge/$-support-FE342D.svg?style=flat)](https://ko-fi.com/jeanjmichel)
+[![License: MIT](https://img.shields.io/badge/License-MIT-gren.svg)](https://opensource.org/licenses/MIT) ![Workflow Status](https://github.com/jeanjmichel/hexagonalarchitectureexample/actions/workflows/dotnet.yml/badge.svg) [![GitHub Release](https://img.shields.io/github/release/jeanjmichel/hexagonalarchitectureexample.svg?style=flat)]() [![GitHub last commit](https://img.shields.io/github/last-commit/jeanjmichel/hexagonalarchitectureexample.svg?style=flat)]() [![GitHub pull requests](https://img.shields.io/github/issues-pr/jeanjmichel/hexagonalarchitectureexample.svg?style=flat)]() [![Donate](https://img.shields.io/badge/$-support-FE342D.svg?style=flat)](https://ko-fi.com/jeanjmichel)
 
 
 Hi! This repository is a simple example of how works a software (developed in C#) using a hexagonal architecture.
